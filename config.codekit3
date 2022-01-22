@@ -54,6 +54,19 @@
       "sC" : 3,
       "tS" : 0
     },
+    "\/source\/assets\/header-bg-1.png" : {
+      "ft" : 32768,
+      "iS" : 84881,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/header-bg-1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/source\/css\/main.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -108,6 +121,17 @@
       "oAP" : "\/build\/index.html",
       "oF" : 0
     },
+    "\/source\/js\/main.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 3,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/build\/js\/main.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
     "\/source\/logo.jpg" : {
       "ft" : 16384,
       "iS" : 18893,
@@ -145,7 +169,7 @@
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "\/source\/logo.jpg",
     "iconImageWasSetByUser" : 1,
-    "lastBuiltDate" : 664555452.65764594
+    "lastBuiltDate" : 664584443.76708806
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,

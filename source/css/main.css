@@ -3,3 +3,7 @@
 @import "tailwindcss/utilities";
 
 /* ------ Add your CSS below this line (or @import your other CSS files). ------- */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;300;400;700&display=swap');
+*, body {
+    font-family: 'Outfit', sans-serif;
+}
