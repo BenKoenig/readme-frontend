@@ -56,7 +56,7 @@
     },
     "\/source\/assets\/header-bg-1.png" : {
       "ft" : 32768,
-      "iS" : 84881,
+      "iS" : 48685,
       "oA" : 0,
       "oAP" : "\/build\/assets\/header-bg-1.png",
       "oF" : 0,
@@ -169,7 +169,7 @@
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "\/source\/logo.jpg",
     "iconImageWasSetByUser" : 1,
-    "lastBuiltDate" : 664584443.76708806
+    "lastBuiltDate" : 664635349.216102
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
