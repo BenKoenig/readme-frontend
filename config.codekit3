@@ -67,11 +67,76 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/source\/assets\/blur-2.png" : {
+      "ft" : 32768,
+      "iS" : 23617,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/blur-2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/source\/assets\/blur-3.png" : {
+      "ft" : 32768,
+      "iS" : 38852,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/blur-3.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/source\/assets\/intro.png" : {
       "ft" : 32768,
       "iS" : 304811,
       "oA" : 0,
       "oAP" : "\/build\/assets\/intro.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/source\/assets\/numbers\/1_glas.png" : {
+      "ft" : 32768,
+      "iS" : 5523,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/numbers\/1_glas.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/source\/assets\/numbers\/2_glas.png" : {
+      "ft" : 32768,
+      "iS" : 8862,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/numbers\/2_glas.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/source\/assets\/numbers\/3_glas.png" : {
+      "ft" : 32768,
+      "iS" : 8816,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/numbers\/3_glas.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
@@ -182,7 +247,7 @@
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "\/source\/logo.jpg",
     "iconImageWasSetByUser" : 1,
-    "lastBuiltDate" : 666442098.06394994
+    "lastBuiltDate" : 666487165.54651296
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,

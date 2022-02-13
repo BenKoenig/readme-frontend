@@ -22,6 +22,10 @@ module.exports =
       screens: {
         '6xl': '72rem',
         '7xl': '80rem',
+        '8xl': '88rem',
+      },
+      width: {
+        '8xl': '88rem',
       }
     }
   },
