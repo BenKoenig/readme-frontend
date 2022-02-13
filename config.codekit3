@@ -54,11 +54,24 @@
       "sC" : 3,
       "tS" : 0
     },
-    "\/source\/assets\/header-bg-1.png" : {
+    "\/source\/assets\/blur-1.png" : {
       "ft" : 32768,
       "iS" : 48685,
       "oA" : 0,
-      "oAP" : "\/build\/assets\/header-bg-1.png",
+      "oAP" : "\/build\/assets\/blur-1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/source\/assets\/intro.png" : {
+      "ft" : 32768,
+      "iS" : 304811,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/intro.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
@@ -169,7 +182,7 @@
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "\/source\/logo.jpg",
     "iconImageWasSetByUser" : 1,
-    "lastBuiltDate" : 664635349.216102
+    "lastBuiltDate" : 666442098.06394994
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,

@@ -13,7 +13,6 @@ module.exports =
   //
   content: [],
 
-
   //
   // All other TailwindCSS options are 100% under your control. Edit this config file as shown in the Tailwind Docs
   // to enable the settings or customizations you need.
