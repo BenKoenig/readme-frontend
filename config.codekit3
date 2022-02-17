@@ -95,7 +95,7 @@
     },
     "\/source\/assets\/building.jpg" : {
       "ft" : 16384,
-      "iS" : 64035,
+      "iS" : 102711,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/build\/assets\/building.jpg",
@@ -128,19 +128,6 @@
       "oIPL" : 0,
       "opt" : 1,
       "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/source\/assets\/macbook.jpg" : {
-      "ft" : 16384,
-      "iS" : 116767,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/build\/assets\/macbook.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
