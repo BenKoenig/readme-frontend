@@ -106,6 +106,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/source\/assets\/eReader.png" : {
+      "ft" : 32768,
+      "iS" : 527168,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/eReader.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/source\/assets\/intro.png" : {
       "ft" : 32768,
       "iS" : 304811,
@@ -273,7 +286,7 @@
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "\/source\/logo.jpg",
     "iconImageWasSetByUser" : 1,
-    "lastBuiltDate" : 666487165.54651296
+    "lastBuiltDate" : 666791694.82364702
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
