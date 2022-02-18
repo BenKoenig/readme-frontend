@@ -133,12 +133,12 @@
 
 
     <!-- Daily snippet -->
-    <div class="relative flex flex-col items-center justify-center pt-[3rem] pb-[3.8rem] lg:pt-[7rem] lg:pb-[7.5rem] overflow-hidden bg-white">
+    <div class="relative flex flex-col items-center justify-center pt-[3rem] pb-[3.8rem] lg:pt-[6rem] lg:pb-[6.5rem] overflow-hidden bg-white xl:bg-boxes bg-cover">
 
     
         <div class="text-center relative flex flex-col items-center justify-center">
             <!--Blurred background (yellow/ornage)-->
-            <div class="absolute blur-xl left-2/4 -translate-x-2/4 w-full max-w-md mr-14 pointer-events-none">
+            <div class="absolute blur-2xl left-2/4 -translate-x-2/4 w-full max-w-md mr-14 pointer-events-none">
                 <img class="w-full" src="./assets/blur-1.png">
             </div>
             <p class="text-2xl z-10 courier_prime relative">The daily Feature</p>
@@ -150,21 +150,25 @@
         <div class="max-w-7xl grid  md:grid-rows-2 xl:grid-rows-1 md:grid-cols-2 xl:grid-cols-11 relative gap-2 mx-2 xl:mx-0">
 
             <!-- Start of snippet card -->
-            <div class=" border-[0.3rem] border-black bg-white xl:col-span-4">
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, </p>
+            <div class="flex flex-col justify-center px-2 lg:px-5 border-[0.23rem] border-black bg-white xl:col-span-4 relative">
+                <svg class="absolute -bottom-6 left-1 lg:left-4 h-[4.5rem]" xmlns="http://www.w3.org/2000/svg" viewBox="0 1 324.42 115"><text transform="translate(1 92)" fill="#fff" stroke="#000" font-size="91" font-family="Outfit" font-weight="700"><tspan x="0" y="0">Snippet</tspan></text></svg>
+                <p class="text-5xl font-bold pt-10 -mb-3 lg:mb-0 lg:pt-4">"</p>
+                <p class="text-lg leading-[1.4rem]">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, </p>
+                <p class="text-5xl font-bold text-right pt-3 lg:pt-4 pb-3 lg:pb-0">"</p>
+            
             </div>
             <!-- End of snippet card -->
 
 
             <!-- Start of information card -->
-            <div class="flex  border-[0.3rem] border-black bg-white xl:col-span-3">
+            <div class="flex  border-[0.23rem] border-black bg-white xl:col-span-3">
                 <img src="https://via.placeholder.com/150x300" alt="display">
                 <div class="w-full px-2 flex flex-col justify-around">
                     <h3 class="text-2xl font-bold">How to Create and Sell HTML Templates</h3>
                     <div class="">
                         <p class="text-gray-400 font-thin -mb-2">Author</p>
                         <p>John Carter</p>
-                        <a href="#"class="bg-white hover:bg-gray-100 transition-colors border-2 border-black text-lg flex w-full h-10 justify-center items-center order-1">Read about it</a>
+                        <a href="#"class="bg-white hover:bg-gray-100 transition-colors max-w-[15rem] border-2 border-black text-lg flex w-full h-10 justify-center items-center order-1">Read about it</a>
                     </div>
                 </div>
             </div>
@@ -172,12 +176,12 @@
 
 
             <!-- Start of description card -->
-            <div class="flex border-[0.3rem] border-black bg-white md:col-span-2 xl:col-span-4">
-                <div>
-                    <h3>About this eBook</h3>
-                    <div>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis.</p>
-                    </div>
+            <div class="flex border-[0.23rem] border-black bg-building pattern-2 md:col-span-2 xl:col-span-4 relative">
+                <svg class="absolute h-[4.5rem] -bottom-6 xl:-top-8 left-1 lg:left-4"xmlns="http://www.w3.org/2000/svg" viewBox="0 1 263.08 116"><text transform="translate(1 93)" fill="#fff" stroke="#000" font-size="92" font-family="Outfit" font-weight="700"><tspan x="0" y="0">About</tspan></text></svg>
+                <div class="flex flex-col justify-center px-2 lg:px-5 py-10 lg:py-0">
+                    <h3 class="text-3xl font-bold pb-2">About this eBook</h3>
+                    <div class="w-16 h-[0.3rem] bg-yellow-200 border-[0.1rem] border-black mb-2"></div>
+                    <p class="max-w-xl">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis.</p>
                 </div>
             </div>
             <!-- End of description card -->
