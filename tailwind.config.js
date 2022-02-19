@@ -28,7 +28,8 @@ module.exports =
                     '8xl': '88rem',
                 },
                 backgroundImage: {
-                    'building': "url('/assets/building.jpg')",
+                    'building': "url('../assets/building.jpg')",
+                    'boxes': "url('../assets/boxes.jpg')",
                 }
             }
         },
