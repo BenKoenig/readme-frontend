@@ -30,6 +30,8 @@ module.exports =
                 backgroundImage: {
                     'building': "url('../assets/building.jpg')",
                     'boxes': "url('../assets/boxes.jpg')",
+                    'boxes-2': "url('../assets/boxes-2.jpg')",
+
                 }
             }
         },

@@ -101,6 +101,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/source\/assets\/boxes-2.jpg" : {
+      "ft" : 16384,
+      "iS" : 3087,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/boxes-2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/source\/assets\/boxes.jpg" : {
       "ft" : 16384,
       "iS" : 10436,
