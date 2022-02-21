@@ -299,6 +299,14 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/source\/productPage.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/productPage.html",
+      "oF" : 0
+    },
     "\/tailwind.config.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -323,7 +331,7 @@
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "\/source\/logo.jpg",
     "iconImageWasSetByUser" : 1,
-    "lastBuiltDate" : 667045503.94854105
+    "lastBuiltDate" : 667136529.16226196
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
